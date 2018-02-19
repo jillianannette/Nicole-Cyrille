@@ -49,6 +49,14 @@ body {
     padding-bottom: 3rem;
 }
 
+.cta .cta-inner {
+    background-color: #fff;
+}
+
+.cta .cta-inner:before {
+    border: .25rem solid #fff;
+}
+
 a {
     color: #1A5276;
 }
