@@ -30,18 +30,6 @@ body {
     font-weight: 300;
 }
 
-.btn-primary {
-    background-color: #ccc;
-    border-color: #ccc;
-    color: #000;
-}
-
-.btn-primary:hover {
-	background-color: #1A5276;
-    border-color: #1A5276;
-    color: #fff;
-}
-
 .cta {
     background-color: #ccc;
     margin-bottom: 0;
@@ -50,11 +38,12 @@ body {
 }
 
 .cta .cta-inner {
-    background-color: #fff;
+    background-color: transparent;
+    padding: 0;
 }
 
 .cta .cta-inner:before {
-    border: .25rem solid #fff;
+    border: none;
 }
 
 a {
