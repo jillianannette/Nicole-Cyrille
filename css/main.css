@@ -50,6 +50,11 @@ a {
     color: #1A5276;
 }
 
+.btn-xl {
+    font-weight: 400;
+    font-size: 1rem;
+}
+
 .footer {
 	color: #efefef;
     background-color: rgba(60, 23, 50, 0.9);
