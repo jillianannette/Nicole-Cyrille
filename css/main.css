@@ -15,6 +15,11 @@ body {
     font-weight: 400;
 }
 
+.nav-link {
+    display: inline;
+    padding: .5rem .5rem;
+}
+
 .page-section {
     margin-top: 3rem;
     margin-bottom: 3rem;
