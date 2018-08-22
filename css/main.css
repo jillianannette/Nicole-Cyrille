@@ -65,6 +65,10 @@ a {
     background-color: rgba(60, 23, 50, 0.9);
 }
 
+.bio {
+    display: inline;
+}
+
 @media (min-width: 992px) {
 	.intro .intro-img {
     	width: 50%;
@@ -76,6 +80,10 @@ a {
     	right: 0;
     	width: 60%;
 	}
+
+    .page-section {
+        margin-bottom: 12rem;
+    }
 }
 
 @media (min-width: 768px) {
